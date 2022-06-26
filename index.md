@@ -22,6 +22,15 @@ This is the most recent version of the project, aimed to help me learn how to us
 
 ## University Projects
 
+### [RPGen](https://gitlab.com/bristolgamesproj/deepdungeonsndragons)
+[Video](https://www.youtube.com/watch?v=VyuJAoaVRS8)
+This project was for the 40 credit "Team Project" unit in third year MEng, the goal of which was to make a web game with two key technologies present. We chose to make a simple RPG game with speech transcription and AI generated text. We recieved a 63% for the unit, however were hampered by two of our six team members being unavailable for the final six weeks of the project. As a result, while playable, the game lacks fleshed out technologies (however they are present). The speech transcription is driven by Google Cloud, while the AI text generation is driven by GPT-2. The game is made in Unity. Please see the video for more information.
+
+### [Scaleable Fault Tolerant Chess](https://github.com/ccdb-uob/CW21-29)
+This project was done for the "Cloud Computing and Big Data" coursework unit in fourth year MEng, as part of a group of three. We recieved 80% for this project, with the coursework prompt to construct "an elastically scalable and fault-tolerant big data cloud system that performs a parallelisable task on streaming data". We chose to create a simple chess site that takes streams of games, processes the move using Stockfish, and responds to said move. This used Kubernetes, MongoDB, MinIO, Google Cloud and Redis. I was personally primarily responsible for writing the worker and healer scripts, as well as the final project write-up.
+
+### [Dissertation](files/Dissertation_jo18163.pdf)
+
 // TODO
 
 ---
