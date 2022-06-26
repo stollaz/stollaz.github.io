@@ -31,7 +31,18 @@ This project was done for the "Cloud Computing and Big Data" coursework unit in 
 
 ### [Dissertation](files/Dissertation_jo18163.pdf)
 
-// TODO
+My dissertation, titled "Using Unsupervised Deep Learning for Song Similarity Recommendations", explored the use of unsupervised neural networks for the purpose of music recommendations, without focusing on collaborative filtering-based approaches. Training a network on over one million previews of Spotify tracks allowed me to generate recommendations for tracks. Per the abstract:
+
+*This project explores the use of unsupervised neural networks to provide music recommendations based
+on song similarity. The model is trained in two phases upon a dataset of the 30-second preview clips
+of over 1 million Spotify tracks. Through the use of Triplet Margin Loss and a choice of three distance
+functions, recommendations can be provided for an input. Depending on the style of music used as the
+input, recommendation quality ranges from vaguely within the right genre, up to very good matches
+which echo the style and vibe of the track provided extremely well. Recommendations work best for
+ambient music, tracks with long sustained sections, as well as more defined genres such as hip-hop, but
+fall short on more high tempo music such as drum and bass.*
+
+This dissertation project used PyTorch, the Spotify API, and a number of other Python maths and deep learning libraries.
 
 ---
 
