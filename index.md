@@ -52,21 +52,21 @@ This dissertation project used PyTorch, the Spotify API, and a number of other P
 The following gamejams were hosted by University of Bristol's Computer Science Society, often in collaboration with and with sponsorship from other companies. They run over the course of 24 hours in teams of up to 6 students, and aim to follow a particular theme.
 
 ### CSS GAMEJAM 2020
-[Contest Link](https://cssbristol.co.uk/events/2020_11_14_gamejam/)
-[Github](https://github.com/TBExtent/Onward-Maggots)
+[Contest Link](https://cssbristol.co.uk/events/2020_11_14_gamejam/) | 
+[Github](https://github.com/TBExtent/Onward-Maggots) | 
 [Game Link](https://motehue.itch.io/onward-maggots)
 
 The theme for this edition of the gamejam was *"keep moving forward"*. Our game, **"Onward, Maggots!"** placed 2nd place at the event. I was primarily responsible for music, level design, and playtesting.
 
 ### CSS X BOEING HACKATHON 2021
-[Contest Link](https://cssbristol.co.uk/events/2021-03-20_boeing_hackathon/)
-[Github](https://github.com/MoteHue/YESSQUID)
+[Contest Link](https://cssbristol.co.uk/events/2021-03-20_boeing_hackathon/) | 
+[Github](https://github.com/MoteHue/YESSQUID) | 
 [Game Link](https://harrywiner.itch.io/yessquid)
 
 The theme for this joint hackathon with Boeing was **"Life Under Water"**, with the task being to *"innovate in one of three areas: Exploration, Environment, Communication"*. We chose to make a simple game based on a river in USA where you must play as a fish surviving in the river.
 
 ### CSS GAMEJAM 2021
-[Contest Link](https://cssbristol.co.uk/events/2021-10-30_game_jam/)
+[Contest Link](https://cssbristol.co.uk/events/2021-10-30_game_jam/) | 
 [Github Link](https://github.com/MoteHue/Superior-Beans)
 
 
