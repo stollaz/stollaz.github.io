@@ -24,6 +24,7 @@ This is the most recent version of the project, aimed to help me learn how to us
 
 ### [RPGen](https://gitlab.com/bristolgamesproj/deepdungeonsndragons)
 [Video](https://www.youtube.com/watch?v=VyuJAoaVRS8)
+
 This project was for the 40 credit "Team Project" unit in third year MEng, the goal of which was to make a web game with two key technologies present. We chose to make a simple RPG game with speech transcription and AI generated text. We recieved a 63% for the unit, however were hampered by two of our six team members being unavailable for the final six weeks of the project. As a result, while playable, the game lacks fleshed out technologies (however they are present). The speech transcription is driven by Google Cloud, while the AI text generation is driven by GPT-2. The game is made in Unity. Please see the video for more information.
 
 ### [Scaleable Fault Tolerant Chess](https://github.com/ccdb-uob/CW21-29)
