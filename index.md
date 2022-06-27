@@ -67,7 +67,7 @@ The theme for this joint hackathon with Boeing was **"Life Under Water"**, with 
 
 ### CSS GAMEJAM 2021
 [Contest Link](https://cssbristol.co.uk/events/2021-10-30_game_jam/) | 
-[Github Link](https://github.com/MoteHue/Superior-Beans)
+[Github](https://github.com/MoteHue/Superior-Beans)
 
 ---
 
