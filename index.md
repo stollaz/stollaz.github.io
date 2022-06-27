@@ -69,4 +69,10 @@ The theme for this joint hackathon with Boeing was **"Life Under Water"**, with 
 [Contest Link](https://cssbristol.co.uk/events/2021-10-30_game_jam/) | 
 [Github Link](https://github.com/MoteHue/Superior-Beans)
 
+---
 
+## Others / Achievements
+
+### [CIUK Cluster Challenge 2021](https://www.scd.stfc.ac.uk/Pages/CIUK-2021-Cluster-Challenge.aspx)
+
+I was a member of the joint Bristol and Bath team that won the CIUK Cluster Challenge 2021, a series of challenges involving high performance hardware usage and optimisation.
